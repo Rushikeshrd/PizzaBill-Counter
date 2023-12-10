@@ -1,2 +1,6 @@
 # PizzaBill-Counter
-Simple bill counter for pizza using Java core and OOP concepts.It simplifies the process by offering various options for customizing pizzas based on individual preferences.
+PackPizza is a Java package that simplifies pizza ordering by enabling users to create customized pizza orders. With this package, users can:
+
+### Create personalized pizzas (vegetarian or non-vegetarian).
+### Add extra cheese or toppings to customize their pizzas.
+### Opt for a takeaway option for convenient on-the-go orders.
